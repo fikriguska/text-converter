@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+a:hover{
+    text-decoration: none;
+}
+.f-btn-blue{
+    background-color: #00d1b5;
+}
+.f-btn-pink{
+    background-color: #ea4aaa;
+}
